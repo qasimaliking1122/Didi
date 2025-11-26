@@ -1,6 +1,6 @@
 {
-  "name": "priyanshu-fca",
-  "version": "3.0.1",
+  "name": "priyanshu2-fca",
+  "version": "1.0.0",
   "description": "A Facebook chat API",
   "scripts": {
     "test": "mocha",
